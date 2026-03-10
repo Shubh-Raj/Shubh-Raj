@@ -1,65 +1,63 @@
-# Shubh's Profile
+<div align="center">
 
-## 📈 Coding Profiles
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E05D34&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Building+Reliable+Systems;Architecting+Scalable+Solutions;Full+Stack+Engineer;Rust+%7C+C%2B%2B+%7C+JavaScript)](https://git.io/typing-svg)
 
-<span>
-<a href="https://codeforces.com/profile/shubhraj625">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=shubhraj625&theme=github_dark&force_username=true&border_color=404040" alt="Shubh's Codeforces stats"/>
-</a>
-<a href="https://leetcode.com/u/shubhraj625/">
-<img height="316" src="https://leetcard.jacoblin.cool/shubhraj625?theme=dark&font=Ubuntu&cache=14400&ext=contest" alt="Shubh's Leetcode Stats"/>
-</a>
-</span>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhraj62)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shubhraj625/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shubhraj625)
 
----
+</div>
 
-## 📊 GitHub Stats
+<br/>
 
-<span>
-<a href="https://github.com/Shubh-Raj">
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubh-Raj&layout=compact&langs_count=8&theme=github_dark&border_color=404040" alt="Shubh's Github Top Languages" />
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=Shubh-Raj&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Shubh's Github Stats" />
-</a>
-</span>
-
+### 🦀 About
+I engineer robust, high-performance systems and scalable full-stack web applications. Passionate about system architecture, competitive programming, and upstreaming infrastructural improvements to structural open-source projects.
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubh-Raj&label=Profile%20views&color=0e75b6&style=flat" alt="Shubh-Raj" /> </p>
+### 🌍 Open Source Footprint
+
+> 🏆 Core Contributions primarily within the **[Accord Project](https://github.com/accordproject)** (Linux Foundation).
+
+* Focused on AST validation, template rendering logic, and parser optimizations.
+* Architectural and core systems work spanning `Template Playground`, `concerto`, `markdown-transform`, `template-engine`, and `concerto-codegen`.
+
+### 💻 Stack Map
+
+`Rust` ▹ `C++` ▹ `C` ▹ `Java` ▹ `JavaScript` ▹ `React` ▹ `Node.js` ▹ `TailwindCSS` ▹ `MongoDB` ▹ `Linux/Bash`
 
 ---
 
+### 📊 Comprehensive Telemetry & Impact
+
+<div align="center">
+  <!-- Dynamic GitHub Stats Grid inspired by Vaggelis-Arg and Streak APIs -->
+  <!-- Note: Using a stable community Vercel instance to prevent timeout/broken images -->
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shubh-Raj&show_icons=true&count_private=true&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=algolia&hide_border=true" height="180" alt="GitHub Stats" />
+
+</div>
+
+<div align="center">
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shubh-Raj&layout=compact&langs_count=6&theme=algolia&hide_border=true" height="180" alt="Top Languages" />
+  
+  <!-- Add advanced profile summary card for commits mapping -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubh-Raj&theme=algolia" height="180" alt="Profile Details" />
+
+</div>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubhraj62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shubh Raj" height="30" width="40" /></a>
-<a href="https://instagram.com/shubh.raj62" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubh.raj62" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shubhraj625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shubhraj625" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubhraj625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhraj625" height="30" width="40" /></a>
-</p>
 
----
+<br/>
 
+<div align="center">
+  <!-- Original Profile Views Counter restored so the count doesn't reset -->
+  <a href="https://github.com/Shubh-Raj"><img src="https://komarev.com/ghpvc/?username=Shubh-Raj&label=Profile%20views&color=0e75b6&style=flat" alt="Shubh-Raj" /></a>
+</div>
 
-## 🧩 Technologies Worked With
+<br/>
 
-<p>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white">
-<img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white">
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=Java&logoColor=white">
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?logo=tailwind-css&logoColor=white">
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-<img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59.svg?logo=express&logoColor=white">
-<img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-<img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
-<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white">
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
-</p>
+<div align="center">
+  <em>Always eager to collaborate on challenging infrastructural or algorithmic problems.</em>
+</div>
