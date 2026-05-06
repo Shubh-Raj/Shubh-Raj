@@ -1,6 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E05D34&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Building+Reliable+Systems;Architecting+Scalable+Solutions;Full+Stack+Engineer;Rust+%7C+C%2B%2B+%7C+JavaScript)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhraj62)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shubhraj625/)
@@ -21,10 +20,6 @@ I engineer robust, high-performance systems and scalable full-stack web applicat
 
 * Focused on AST validation, template rendering logic, and parser optimizations.
 * Architectural and core systems work spanning `Template Playground`, `concerto`, `markdown-transform`, `template-engine`, and `concerto-codegen`.
-
-### 💻 Stack Map
-
-`Rust` ▹ `C++` ▹ `C` ▹ `Java` ▹ `JavaScript` ▹ `React` ▹ `Node.js` ▹ `TailwindCSS` ▹ `MongoDB` ▹ `Linux/Bash`
 
 ---
 
