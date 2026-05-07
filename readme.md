@@ -9,20 +9,6 @@
 
 <br/>
 
-### 🦀 About
-I engineer robust, high-performance systems and scalable full-stack web applications. Passionate about system architecture, competitive programming, and upstreaming infrastructural improvements to structural open-source projects.
-
----
-
-### 🌍 Open Source Footprint
-
-> 🏆 Core Contributions primarily within the **[Accord Project](https://github.com/accordproject)** (Linux Foundation).
-
-* Focused on AST validation, template rendering logic, and parser optimizations.
-* Architectural and core systems work spanning `Template Playground`, `concerto`, `markdown-transform`, `template-engine`, and `concerto-codegen`.
-
----
-
 ### 📊 Comprehensive Telemetry & Impact
 
 <div align="center">
